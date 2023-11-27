@@ -1,5 +1,5 @@
 # Machine_Learning
-Tareas, prácticas y proyectos de la materia Machine Learning.
+Homework, practices and projects for the Machine Learning course.
 
 # Contenido
 - Act_1: Describing a DataSet.
