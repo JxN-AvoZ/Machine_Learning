@@ -1,5 +1,5 @@
 # Machine_Learning
-Homework, practices and projects for the Machine Learning course.
+Homework, practices and projects for the Machine Learning course imparted by **Dr. marco Aceves**.
 
 # Contenido
 - Act_1: Describing a DataSet.
